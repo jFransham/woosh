@@ -1,4 +1,4 @@
-# WOOSH: WOnky Optimising SHell
+# WOOSH: WOnky Optimizing SHell
 
 A POSIX-compatible shell that exists to ideally run as ridiculously fast as
 possible, and not designed for interactive use. Supposed to be a drop-in
